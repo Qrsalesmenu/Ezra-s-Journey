@@ -43,3 +43,8 @@ h1 {
     font-size: 3rem;
   }
 }
+@media (max-width: 470px) {
+  .top-items-wrapper {
+    font-size: 0.75rem;
+  }
+}
